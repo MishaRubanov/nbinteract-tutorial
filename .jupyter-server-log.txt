@@ -1,0 +1,29 @@
+[I 01:52:31.192 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-08-07 01:52:32.426 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-08-07 01:52:32.426 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-08-07 01:52:32.426 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-08-07 01:52:32.426 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-08-07 01:52:32.442 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-08-07 01:52:32.442 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 01:52:32.461 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 01:52:32.465 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 01:52:32.467 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 01:52:32.468 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 01:52:32.468 NotebookApp] http://jupyter-misharubanov-2dnbinteract-2dtutorial-2dlo0d4nwg:8888/binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/?token=...
+[I 01:52:32.468 NotebookApp]  or http://127.0.0.1:8888/binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/?token=...
+[I 01:52:32.468 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 01:52:32.476 NotebookApp] No web browser found: could not locate runnable browser.
+[I 01:52:33.500 NotebookApp] 302 GET /binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/ (10.244.90.59) 1.640000ms
+[I 01:52:33.947 NotebookApp] 302 GET /binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/?token=2szQlrV-RY-1VrE8e8UG8g (73.173.147.206) 1.860000ms
+[I 01:52:34.097 NotebookApp] 301 GET /binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/lab/?token=2szQlrV-RY-1VrE8e8UG8g (73.173.147.206) 2.930000ms
+[I 01:52:36.780 NotebookApp] 301 GET /binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/static/favicons/favicon.ico (73.173.147.206) 1.050000ms
+[I 2022-08-07 01:52:41.307 LabApp] Build is up to date
+[I 01:52:46.829 NotebookApp] New terminal with automatic name: 1

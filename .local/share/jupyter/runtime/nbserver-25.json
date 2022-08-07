@@ -1,0 +1,12 @@
+{
+  "base_url": "/binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 25,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "2szQlrV-RY-1VrE8e8UG8g",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/misharubanov-nbinteract-tutorial-lo0d4nwg/"
+}
